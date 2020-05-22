@@ -7,31 +7,31 @@ class TreeNode:
 
 
 class Tree:
-    def build_tree(self, l) -> TreeNode:
-        if not list:
+    def build_tree(self, input_list) -> TreeNode:
+        if not input_list:
             return None
 
-        hashmap = {}
-        root = TreeNode(l[0])
-        hashmap[0] = root
+        treenode_map = {}
+        root = TreeNode(input_list[0])
+        treenode_map[0] = root
         
         i = 0
         j = 1
-        while j < len(l):
-            if l[i] != "null":
-                root = hashmap[i]
-            if j < len(l) and l[j] != "null":
-                left = TreeNode(l[j])
+        while j < len(input_list):
+            if input_list[i] != "null":
+                root = treenode_map[i]
+            if j < len(input_list) and input_list[j] != "null":
+                left = TreeNode(input_list[j])
                 root.left = left
-                hashmap[j] = left
+                treenode_map[j] = left
             j += 1
-            if j < len(l) and l[j] != "null":
-                right = TreeNode(l[j])
+            if j < len(input_list) and input_list[j] != "null":
+                right = TreeNode(input_list[j])
                 root.right = right
-                hashmap[j] = right
+                treenode_map[j] = right
             j += 1
             i += 1
-        return hashmap[0]
+        return treenode_map[0]
             
             
     def level_order(self, root: TreeNode) -> [[]]:
@@ -39,17 +39,20 @@ class Tree:
             return []
         queue = [root]
         level_order_vals = []
-        while queue:
-            temp = []
-            level = []
-            for q in queue:
-                level.append(q.val)
-                if q.left:
-                    temp.append(q.left)
-                if q.right:
-                    temp.append(q.right)
-            queue = temp
-            level_order_vals.append(level)
+        n = len(queue)
+        level = []
+        while n:
+            q = queue.pop(0)
+            level.append(q.val)
+            if q.left:
+                queue.append(q.left)
+            if q.right:
+                queue.append(q.right)
+            n -= 1
+            if n == 0:
+                level_order_vals.append(level)
+                level = []
+                n = len(queue)
         return level_order_vals
 
 #test
