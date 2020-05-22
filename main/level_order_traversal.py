@@ -7,6 +7,22 @@ class TreeNode:
 
 
 class Tree:
+    def build_tree_recursive(self, input_list) -> TreeNode:
+        if not input_list:
+            return None
+        def build_tree_helper(parent_pos, child_pos):
+            #print(parent_pos, child_pos)
+            if parent_pos > len(input_list) - 1:
+                return None 
+            if input_list[parent_pos] == "null":
+                return None
+            node = TreeNode(input_list[parent_pos])
+            node.left = build_tree_helper(child_pos, child_pos + 2)
+            node.right = build_tree_helper(child_pos + 1, child_pos + 4)
+            return node
+        return build_tree_helper(0, 1)
+
+
     def build_tree(self, input_list) -> TreeNode:
         if not input_list:
             return None
@@ -40,24 +56,27 @@ class Tree:
         queue = [root]
         level_order_vals = []
         n = len(queue)
-        level = []
-        while n:
-            q = queue.pop(0)
-            level.append(q.val)
-            if q.left:
-                queue.append(q.left)
-            if q.right:
-                queue.append(q.right)
-            n -= 1
-            if n == 0:
-                level_order_vals.append(level)
-                level = []
-                n = len(queue)
+        
+        while queue:
+            n = len(queue)
+            level = []
+            while n:
+                node = queue.pop(0)
+                level.append(node.val)
+                if node.left:
+                    queue.append(node.left)
+                if node.right:
+                    queue.append(node.right)
+                n -= 1
+            level_order_vals.append(level)
+        
         return level_order_vals
 
 #test
 T = Tree()
-tree = T.build_tree([3,9,20,"null","null",15,7])
+tree = T.build_tree_recursive([3,9,20,"null","null",15,7])
+print(T.level_order(tree))
+tree = T.build_tree_recursive([1])
 print(T.level_order(tree))
 	
         
