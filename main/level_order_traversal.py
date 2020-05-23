@@ -18,7 +18,13 @@ class Tree:
                 return None
             node = TreeNode(input_list[parent_pos])
             node.left = build_tree_helper(child_pos, child_pos + 2)
-            node.right = build_tree_helper(child_pos + 1, child_pos + 4)
+            if child_pos < len(input_list):
+                if input_list[child_pos] != "null": 
+                    grandchild = child_pos + 4
+                else:
+                    grandchild = child_pos + 1
+	
+                node.right = build_tree_helper(child_pos + 1, grandchild)
             return node
         return build_tree_helper(0, 1)
 
@@ -34,6 +40,8 @@ class Tree:
         i = 0
         j = 1
         while j < len(input_list):
+            while i < len(input_list) and input_list[i] == "null":
+                i += 1
             if input_list[i] != "null":
                 root = treenode_map[i]
             if j < len(input_list) and input_list[j] != "null":
@@ -72,11 +80,28 @@ class Tree:
         
         return level_order_vals
 
+def test(a):
+    a += a
+    return a
+
+
 #test
 T = Tree()
 tree = T.build_tree_recursive([3,9,20,"null","null",15,7])
 print(T.level_order(tree))
 tree = T.build_tree_recursive([1])
 print(T.level_order(tree))
+tree = T.build_tree([1,"null",2,3,4])
+print(T.level_order(tree))
+tree = T.build_tree_recursive([1,"null",2,3,4])
+print(T.level_order(tree))
+
+a = 2
+b = test(a)
+print(a, b)
+
+a = [2,3]
+b = test(a)
+print(a, b)
 	
         
