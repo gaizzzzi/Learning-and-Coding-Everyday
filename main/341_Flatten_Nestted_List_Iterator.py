@@ -22,31 +22,40 @@
 
 class NestedIterator:
     def __init__(self, nestedList: [NestedInteger]):
-        self.current_pos_stack = [-1] 
-        self.nested_list_stack = [nestedList]
+        self.nested_list_stack = nestedList[::-1]
     def next(self) -> int:
-        return self.current_pos.getInteger()
+        return self.current_nested_list.getInteger()
         
     def hasNext(self) -> bool:
-        while self.current_pos_stack:
-            while self.current_pos_stack and self.current_pos_stack[-1] + 1 > len(self.nested_list_stack[-1]) - 1:
-                self.current_pos_stack.pop()
-                self.nested_list_stack.pop()
-                    
-            if not self.current_pos_stack:
-                return False
-            
-            self.current_pos_stack[-1] += 1
-            self.current_pos = self.nested_list_stack[-1][self.current_pos_stack[-1]]
-        
-            if self.current_pos.isInteger():
+        while self.nested_list_stack:
+            self.current_nested_list = self.nested_list_stack.pop()
+            if self.current_nested_list.isInteger():
                 return True
-                
             else:
-                self.nested_list_stack.append(self.current_pos.getList())
-                self.current_pos_stack.append(-1)
-                
+                self.nested_list_stack.extend(self.current_nested_list.getList()[::-1])
         return False
+
+
+
+        # while self.current_pos_stack:
+        #     while self.current_pos_stack and self.current_pos_stack[-1] + 1 > len(self.nested_list_stack[-1]) - 1:
+        #         self.current_pos_stack.pop()
+        #         self.nested_list_stack.pop()
+                    
+        #     if not self.current_pos_stack:
+        #         return False
+            
+        #     self.current_pos_stack[-1] += 1
+        #     self.current_pos = self.nested_list_stack[-1][self.current_pos_stack[-1]]
+        
+        #     if self.current_pos.isInteger():
+        #         return True
+                
+        #     else:
+        #         self.nested_list_stack.append(self.current_pos.getList())
+        #         self.current_pos_stack.append(-1)
+                
+        # return False
             
 
     
