@@ -10,3 +10,4 @@ Thanks^^
 2. [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/)
 3. [297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/)
 4. [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
+5. [341. Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)
