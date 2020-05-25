@@ -25,10 +25,35 @@ class Solution:
         return self.min_price
 
 
-    def findCheapestPrice_bfs(self, n: int, flights: List[List[int]], src: int, dst: int, K: int) -> int:
-        
+    def findCheapestPrice_bfs_AC(self, n: int, flights: List[List[int]], src: int, dst: int, K: int) -> int:
+        prices = [[float('inf')] * (K + 2) for i in range(n)]
+        prices[src] = [0] * (K + 2)
+        visited = [False] * n
+        flights_map = {}
+        for u, v, w in flights:
+            if not flights_map.get(u):
+                flights_map[u] = [(v, w)]
+            else:
+                flights_map[u].append((v, w))
+        q = queue.Queue()
+        q.put(src)
+        k = 0
+        while not q.empty() and k < K + 1:
+            n = q.qsize()
+            while n:
+                city = q.get()
+                if flights_map.get(city):
+                    for v, w in flights_map[city]:
+                        if min(prices[v][:k + 2]) > prices[city][k] + w: # shrink 4/5 time 
+                        #if prices[v][k + 1] > prices[city][k] + w: 
+                            prices[v][k + 1] = prices[city][k] + w
+                            q.put(v)
+                n -= 1
+            k += 1
+            
+        return min(prices[dst]) if min(prices[dst]) < float('inf') else -1
 
-    def findCheapestPrice_dijkstra(self, n: int, flights: List[List[int]], src: int, dst: int, K: int) -> int:
+    def findCheapestPrice_dijkstra_AC(self, n: int, flights: List[List[int]], src: int, dst: int, K: int) -> int:
         prices = [[float('inf')] * n for i in range(n)]
         prices[src] = [0] * n
         visited = [False] * n
@@ -48,8 +73,9 @@ class Solution:
                 continue
             visited[city] = True
             if flights_map.get(city):
-                for (v, w) in flights_map[city]:
-                    if not visited[v] and prices[v][k + 1] > prices[city][k] + w and k < K:
+                for (v, w) in flights_map[city]:  
+                    if not visited[v] and min(prices[v][:k + 2]) > prices[city][k] + w and k < K: # shrink 1/8 time 
+                    #if not visited[v] and prices[v][k + 1] > prices[city][k] + w and k < K:
                         prices[v][k + 1] = prices[city][k] + w
                         heappush(heap, (prices[city][k] + w, k + 1, v))
                     #print(prices)
