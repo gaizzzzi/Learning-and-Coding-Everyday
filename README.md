@@ -17,3 +17,5 @@ Thanks^^
 9. [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)
 10. [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/)
 11. [787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)
+12. [547. Friend Circles](https://leetcode.com/problems/friend-circles/)
+13. [130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)
