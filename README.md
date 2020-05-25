@@ -14,3 +14,6 @@ Thanks^^
 6. [257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)
 7. [78. Subsets](https://leetcode.com/problems/subsets/)
 8. [39. Combination Sum](https://leetcode.com/problems/combination-sum/)
+9. [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)
+10. [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/)
+11. [787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)
