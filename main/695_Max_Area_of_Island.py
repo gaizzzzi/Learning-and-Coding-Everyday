@@ -3,7 +3,6 @@ class Solution:
         if not grid:
             return 0
         
-        self.max_area = 0  
         visited = [[False] * len(grid[0]) for i in range(len(grid))]
         directions = [(1, 0), (-1, 0), (0, 1), (0, -1)]
         
