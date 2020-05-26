@@ -15,10 +15,10 @@ Thanks^^
 7. [78. Subsets](https://leetcode.com/problems/subsets/) :heavy_check_mark:
 8. [39. Combination Sum](https://leetcode.com/problems/combination-sum/) :heavy_check_mark:
 9. [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) :heavy_check_mark:
-10. [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/)
-11. [787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)
-12. [547. Friend Circles](https://leetcode.com/problems/friend-circles/)
-13. [130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)
+10. [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/) :heavy_check_mark:
+11. [787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) :heavy_check_mark:
+12. [547. Friend Circles](https://leetcode.com/problems/friend-circles/) :heavy_check_mark:
+13. [130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) :heavy_check_mark:
 14. [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 15. [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
 16. [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)
