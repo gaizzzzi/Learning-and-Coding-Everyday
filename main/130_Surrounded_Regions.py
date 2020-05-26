@@ -45,8 +45,9 @@ class Solution:
         
         def find_parent(x):
             #print(x)
-            if abs(x) != abs(parent[abs(x)]):
-                parent[abs(x)] = find_parent(parent[abs(x)])
+            while abs(x) != abs(parent[abs(x)]):
+                parent[abs(x)] = parent[abs[parent[abs(x)]]]
+                x = parent[abs(x)]
             return parent[abs(x)]
 
         def union(x, y):

@@ -1,5 +1,5 @@
 class Solution:
-    def findCircleNum(self, M: List[List[int]]) -> int:
+    def findCircleNum_192ms(self, M: List[List[int]]) -> int:
         # 20:14
         visited = [False] * len(M)
         
@@ -19,13 +19,14 @@ class Solution:
                 
         return friend_circle
 
-    def findCircleNum_Union_find(self, M: List[List[int]]) -> int:
+    def findCircleNum_Union_find_192ms(self, M: List[List[int]]) -> int:
         parent = [i for i in range(len(M))]
         rank = [0] * len(M)
 
         def find_parent(x):
-            if x != parent[x]:
-                parent[x] = find_parent(parent[x])
+            while x != parent[x]:
+                parent[x] = parent[parent[x]]
+                x = parent[x]
             return parent[x]
 
         def union(x, y):
