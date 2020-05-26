@@ -59,9 +59,8 @@ class Solution:
             
         return min(prices[dst]) if min(prices[dst]) < float('inf') else -1
 
-    def findCheapestPrice_dijkstra_AC_80ms(self, n: int, flights: List[List[int]], src: int, dst: int, K: int) -> int:
-        prices = [[float('inf')] * n for i in range(n)]
-        prices[src] = [0] * n
+    def findCheapestPrice_dijkstra_AC_60ms(self, n: int, flights: List[List[int]], src: int, dst: int, K: int) -> int:
+        # elimated distance list
         visited = [False] * n
         flights_map = {}
         for u, v, w in flights:
@@ -73,21 +72,20 @@ class Solution:
         heap = [(0, -1, src)] #(price, k, city)
         
         while heap:
-            #print(heap[0])
             price, k, city = heappop(heap)
-            if k >= K:
+            if k > K:
                 continue
+            if city == dst:
+                return price
             visited[city] = True
             if flights_map.get(city):
-                for (v, w) in flights_map[city]:  
-                    if not visited[v] and min(prices[v][:k + 2]) > prices[city][k] + w and k < K: # shrink 1/8 time 
-                    #if not visited[v] and prices[v][k + 1] > prices[city][k] + w and k < K:
-                        prices[v][k + 1] = prices[city][k] + w
-                        heappush(heap, (prices[city][k] + w, k + 1, v))
-                    #print(prices)
+                for (v, w) in flights_map[city]:
+                    if not visited[v]:
+                        heappush(heap, (price + w, k + 1, v))
+            
             n -= 1
-            min_price = min(prices[dst])
-        return min_price if min_price < float('inf') else -1      
+                    
+        return -1  
 
     def findCheapestPrice_DP_AC_116ms(self, n: int, flights: List[List[int]], src: int, dst: int, K: int) -> int:      
         # 15min
