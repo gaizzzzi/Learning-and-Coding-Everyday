@@ -19,7 +19,11 @@ Thanks^^
 11. [787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) :heavy_check_mark:
 12. [547. Friend Circles](https://leetcode.com/problems/friend-circles/) :heavy_check_mark:
 13. [130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) :heavy_check_mark:
-14. [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
-15. [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
-16. [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)
-17. [617. Merge Two Binary Trees]()
+14. [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) :heavy_check_mark:
+15. [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) :heavy_check_mark:
+16. [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) :heavy_check_mark:
+17. [617. Merge Two Binary Trees]() :heavy_check_mark:
+18. [380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)
+19. [528. Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/)
+20. [227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)
+21. [224. Basic Calculator](https://leetcode.com/problems/basic-calculator/)
