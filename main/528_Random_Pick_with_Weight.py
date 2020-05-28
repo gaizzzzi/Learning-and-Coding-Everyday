@@ -16,9 +16,9 @@ class Solution:
             mid = (start + end) // 2
             if self.cum_sum[mid] == random_factor:
                 return mid
-            if self.cum_sum[mid] < random_factor:
+            elif self.cum_sum[mid] < random_factor:
                 start = mid
-            if self.cum_sum[mid] > random_factor:
+            else:
                 end = mid
         if self.cum_sum[start] < random_factor:
             return end
