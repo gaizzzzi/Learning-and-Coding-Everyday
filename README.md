@@ -23,7 +23,10 @@ Thanks^^
 15. [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) :heavy_check_mark:
 16. [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) :heavy_check_mark:
 17. [617. Merge Two Binary Trees]() :heavy_check_mark:
-18. [380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)
-19. [528. Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/)
-20. [227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)
-21. [224. Basic Calculator](https://leetcode.com/problems/basic-calculator/)
+18. [380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) :heavy_check_mark:
+19. [528. Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/) :heavy_check_mark:
+20. [227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) :heavy_check_mark:
+21. [224. Basic Calculator](https://leetcode.com/problems/basic-calculator/) :heavy_check_mark:
+22. [79. Word Search](https://leetcode.com/problems/word-search/)
+23. [44. Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)
+24. [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
