@@ -30,8 +30,7 @@ Thanks^^
 1. [79. Word Search](https://leetcode.com/problems/word-search/) :heavy_check_mark:
 1. [44. Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) :heavy_check_mark:
 1. [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) :heavy_check_mark:
-1. [17. Letter Combinations of a Phone Number](https://le
-etcode.com/problems/letter-combinations-of-a-phone-number/)  :heavy_check_mark:
+1. [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)  :heavy_check_mark:
 1. [30. Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)  :heavy_check_mark:
 1. [39. Combination Sum](https://leetcode.com/problems/combination-sum/)  :heavy_check_mark:
 1. [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)  :heavy_check_mark:
