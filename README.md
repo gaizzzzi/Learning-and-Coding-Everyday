@@ -30,7 +30,12 @@ Thanks^^
 1. [79. Word Search](https://leetcode.com/problems/word-search/) :heavy_check_mark:
 1. [44. Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) :heavy_check_mark:
 1. [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) :heavy_check_mark:
-1. [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
-1. [30. Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)
-1. [39. Combination Sum](https://leetcode.com/problems/combination-sum/)
-1. [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)
+1. [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)  :heavy_check_mark:
+1. [30. Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)  :heavy_check_mark:
+1. [39. Combination Sum](https://leetcode.com/problems/combination-sum/)  :heavy_check_mark:
+1. [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)  :heavy_check_mark:
+1. [981. Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/description/)  :heavy_check_mark:
+1. [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/description/)
+1. [252. Meeting Rooms](https://www.cnblogs.com/grandyang/p/5240774.html)
+1. [253. Meeting Rooms II](https://www.cnblogs.com/grandyang/p/5244720.html)
+
