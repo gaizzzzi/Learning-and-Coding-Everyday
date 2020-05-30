@@ -40,4 +40,4 @@ Thanks^^
 1. [253. Meeting Rooms II](https://www.cnblogs.com/grandyang/p/5244720.html)
 1. [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
 1. [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)
-1. [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)
+1. [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) :tea: :tea:
