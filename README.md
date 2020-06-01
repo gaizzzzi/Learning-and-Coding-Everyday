@@ -41,3 +41,8 @@ Thanks^^
 1. :heavy_check_mark: [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
 1. :heavy_check_mark: [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)
 1. :heavy_check_mark: [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)
+1. [307. Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/description/)
+1. [91. Decode Ways](https://leetcode.com/problems/decode-ways/description/)
+1. [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/)
+1. [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/)
+1. [679. 24 Game](https://leetcode.com/problems/24-game/description/)
