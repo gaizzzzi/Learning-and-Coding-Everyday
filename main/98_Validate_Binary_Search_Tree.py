@@ -10,6 +10,7 @@ class Solution:
         def helper(root):
             if not root:
                 return True, None, None
+                
             is_l_valid, l_min, l_max = helper(root.left)
             is_r_valid, r_min, r_max = helper(root.right)
             

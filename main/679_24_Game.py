@@ -1,5 +1,5 @@
 class Solution:
-    def judgePoint24(self, nums: List[int]) -> bool:
+    def judgePoint24_beat_96(self, nums: List[int]) -> bool:
         def operations(nums, a):
             out = []
             for b in nums:
@@ -49,5 +49,27 @@ class Solution:
                     
             
         return False
+
+    def judgePoint24_cleaner_v_beat_17(self, nums: List[int]) -> bool:
+        def operations(a, b):
+            return [b * a, b + a, a - b, b - a]\
+                   + ([a / b] if b != 0 else [])\
+                   + ([b / a] if a != 0 else [])
+            
+        def helper(nums):
+            if len(nums) == 1:
+                if abs(nums[0] - 24) <= 1e-8:
+                    return True
+                return False
+            
+            is_24 = False  
+            for i in range(len(nums)):
+                for j in range(i + 1, len(nums)):
+                    tmp = operations(nums[i], nums[j])
+                    for t in tmp:
+                        is_24 |= helper([t] + nums[:i] + nums[i + 1 : j] + nums[j + 1:])
+            return is_24
+        
+        return helper(nums)
             
             

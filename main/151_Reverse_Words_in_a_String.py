@@ -1,5 +1,6 @@
 class Solution:
     def reverseWords(self, s: str) -> str:
+        # 18:03-18:10
         new_s = ""
         tmp = ""
         for x in s[::-1]:
