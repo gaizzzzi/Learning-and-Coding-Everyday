@@ -3,14 +3,9 @@ class Solution:
         if not lists:
             return None
 
-        if len(lists) == 1:
-            return lists[0]
-
-        if len(lists) == 2:
+        if len(lists) <= 2:
             if not lists[0]:
                 return lists[1]
-            if not lists[1]:
-                return lists[0]
             if lists[0].val > lists[1].val:
                 lists[0], lists[1] = lists[1], lists[0]
             lists[0].next = self.mergeKLists([lists[0].next, lists[1]])
