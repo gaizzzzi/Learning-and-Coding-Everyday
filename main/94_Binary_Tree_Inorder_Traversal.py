@@ -5,7 +5,7 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def inorderTraversal(self, root: TreeNode) -> List[int]:
+    def inorderTraversal_beat_91(self, root: TreeNode) -> List[int]:
         # 23:21 - 23:22
         if not root:
             return []
