@@ -56,3 +56,7 @@ Thanks^^
 1. :heavy_check_mark: [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
 1. :heavy_check_mark: [46. Permutations](https://leetcode.com/problems/permutations/)
 1. :heavy_check_mark: [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+1. [159. Longest Substring with At Most Two Distinct Characters](https://www.cnblogs.com/grandyang/p/5185561.html)
+1. [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/)
+1. [491. Increasing Subsequences](https://leetcode.com/problems/increasing-subsequences/description/)
+1. [129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/description/)
