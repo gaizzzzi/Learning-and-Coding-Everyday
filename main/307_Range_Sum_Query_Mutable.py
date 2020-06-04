@@ -1,4 +1,5 @@
 
+
 class NumArray_naive_728ms:
 	
     def __init__(self, nums: List[int]):
@@ -69,6 +70,8 @@ class NumArray_BI_Tree_144ms:
                 i -= i & (-i)
             return tmp_sum
         return find_sum(j) - find_sum(i - 1)
+
+
 
 # Your NumArray object will be instantiated and called as such:
 # obj = NumArray(nums)
