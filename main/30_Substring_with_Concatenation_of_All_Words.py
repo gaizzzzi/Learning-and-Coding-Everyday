@@ -34,3 +34,36 @@ class Solution:
         
         helper(0, "", visited)
         return ans
+
+class Solution:
+    def findSubstring_hash_two_pointers(self, s: str, words: List[str]) -> List[int]:
+        if not words or not words[0] or not s:
+            return []
+        
+        word_freq = {}
+        for word in words:
+            word_freq[word] = word_freq.get(word, 0) + 1
+            
+        ans = []
+        for i in range(min(len(words[0]), len(s) - len(words[0]) * len(words) + 1)):
+            start, end = i, i
+            curr_freq = {}
+            while end < len(s) - len(words[0]) + 1:
+                while end < len(s) - len(words[0]) + 1 and not s[end: end + len(words[0])] in word_freq:
+                    end += len(words[0])
+                    curr_freq = {}
+                    start = end
+                curr_word = s[end: end + len(words[0])]
+                if curr_word in word_freq:
+                    curr_freq[curr_word] = curr_freq.get(curr_word, 0) + 1
+                    while curr_freq[curr_word] > word_freq[curr_word]:
+                        curr_freq[s[start: start + len(words[0])]] -= 1
+                        start += len(words[0])
+                    if end + len(words[0]) - start == len(words) * len(words[0]):
+                        ans.append(start)
+                end += len(words[0])
+        return ans
+        
+        
+                
+        
