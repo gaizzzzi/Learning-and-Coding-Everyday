@@ -74,3 +74,13 @@ Thanks^^
 1. [43. Multiply Strings](https://leetcode.com/problems/multiply-strings/description/)
 1. [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)
 1. [Implement Merge Sort](https://algs4.cs.princeton.edu/22mergesort/)
+
+
+
+## Leetcode Summary
+Question Type | Questions
+------------ | -------------
+Dynamic Programming | To be added
+Binary Search |  To be added
+
+## Milestones
