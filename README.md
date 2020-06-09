@@ -69,14 +69,20 @@ Thanks^^
 1. :heavy_check_mark: [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
 1. :heavy_check_mark: [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/)
 1. :heavy_check_mark: [50. Pow(x, n)](https://leetcode.com/problems/powx-n/description/)
-1. [207. Course Schedule](https://leetcode.com/problems/course-schedule/description/)
-1. [210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/description/)
-1. [43. Multiply Strings](https://leetcode.com/problems/multiply-strings/description/)
-1. [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)
-1. [Implement Merge Sort](https://algs4.cs.princeton.edu/22mergesort/)
-1. [Implement Quick Sort](https://algs4.cs.princeton.edu/23quicksort/)
-1. [Implement Insertion Sort](https://algs4.cs.princeton.edu/21elementary/Insertion.java.html)
-1. [Implement Bubble Sort](https://en.wikipedia.org/wiki/Bubble_sort)
+1. :heavy_check_mark: [207. Course Schedule](https://leetcode.com/problems/course-schedule/description/)
+1. :heavy_check_mark: [210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/description/)
+1. :heavy_check_mark: [43. Multiply Strings](https://leetcode.com/problems/multiply-strings/description/)
+1. :heavy_check_mark: [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)
+1. :heavy_check_mark: [Implement Merge Sort](https://algs4.cs.princeton.edu/22mergesort/)
+1. :heavy_check_mark: [Implement Quick Sort](https://algs4.cs.princeton.edu/23quicksort/)
+1. :heavy_check_mark: [Implement Insertion Sort](https://algs4.cs.princeton.edu/21elementary/Insertion.java.html)
+1. :heavy_check_mark: [Implement Bubble Sort](https://en.wikipedia.org/wiki/Bubble_sort)
+1. [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)
+1. [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/)
+1. [692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/description/)
+1. [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/description/)
+1. [146. LRU Cache](https://leetcode.com/problems/lru-cache/description/)
+
 
 
 
