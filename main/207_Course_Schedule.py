@@ -24,3 +24,4 @@ class Solution:
         if count < numCourses:
             return False
         return True
+        

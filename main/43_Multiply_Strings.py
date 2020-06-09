@@ -43,6 +43,7 @@ class Solution:
         return prod
 
 
+
     def multiply_optimized(self, num1: str, num2: str) -> str:
         # 16:44 - 17:01
         ans = [0] * (len(num1) + len(num2))
