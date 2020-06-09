@@ -1,5 +1,9 @@
 class Solution:
+<<<<<<< HEAD
     def alienOrder_bfs(self, words: List[str]) -> str:
+=======
+    def alienOrder(self, words: List[str]) -> str:
+>>>>>>> master
         # 00:12 - 01:45
         
         # initialize topological indegree list
@@ -41,6 +45,7 @@ class Solution:
         
         return ans
             
+<<<<<<< HEAD
     def alienOrder_dfs(self, words: List[str]) -> str:
         # initialize topological indegree list
         indegree = {}
@@ -84,4 +89,6 @@ class Solution:
             return ""
         return ans
             
+=======
+>>>>>>> master
             

@@ -60,8 +60,31 @@ Thanks^^
 1. :heavy_check_mark: [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/)
 1. :heavy_check_mark: [491. Increasing Subsequences](https://leetcode.com/problems/increasing-subsequences/description/)
 1. :heavy_check_mark: [129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/description/)
-1. [953. Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/description/)
-1. [269. Alien Dictionary](https://www.cnblogs.com/grandyang/p/5250200.html)
-1. [289. Game of Life](https://leetcode.com/problems/game-of-life/description/)
-1. [794. Valid Tic-Tac-Toe State](https://leetcode.com/problems/valid-tic-tac-toe-state/description/)
-1. [789. Escape The Ghosts](https://leetcode.com/problems/escape-the-ghosts/description/)
+1. :heavy_check_mark: [953. Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/description/)
+1. :heavy_check_mark: [269. Alien Dictionary](https://www.cnblogs.com/grandyang/p/5250200.html)
+1. :heavy_check_mark: [289. Game of Life](https://leetcode.com/problems/game-of-life/description/)
+1. :heavy_check_mark: [794. Valid Tic-Tac-Toe State](https://leetcode.com/problems/valid-tic-tac-toe-state/description/)
+1. :heavy_check_mark: [789. Escape The Ghosts](https://leetcode.com/problems/escape-the-ghosts/description/)
+1. :heavy_check_mark: [127. Word Ladder](https://leetcode.com/problems/word-ladder/description/)
+1. :heavy_check_mark: [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
+1. :heavy_check_mark: [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/)
+1. :heavy_check_mark: [50. Pow(x, n)](https://leetcode.com/problems/powx-n/description/)
+1. [207. Course Schedule](https://leetcode.com/problems/course-schedule/description/)
+1. [210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/description/)
+1. [43. Multiply Strings](https://leetcode.com/problems/multiply-strings/description/)
+1. [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)
+1. [Implement Merge Sort](https://algs4.cs.princeton.edu/22mergesort/)
+1. [Implement Quick Sort](https://algs4.cs.princeton.edu/23quicksort/)
+1. [Implement Insertion Sort](https://algs4.cs.princeton.edu/21elementary/Insertion.java.html)
+1. [Implement Bubble Sort](https://en.wikipedia.org/wiki/Bubble_sort)
+
+
+
+
+## Leetcode Summary
+Question Type | Questions
+------------ | -------------
+Dynamic Programming | To be added
+Binary Search |  To be added
+
+## Milestones
