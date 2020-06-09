@@ -58,6 +58,7 @@ class Sort():
 
 
 
+
 nums = [2,8,1,5,2,3,7,4]
 s = Sort()
 print("merge sort", s.merge_sort(nums))
