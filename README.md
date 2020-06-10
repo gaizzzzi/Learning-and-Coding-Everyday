@@ -77,12 +77,16 @@ Thanks^^
 1. :heavy_check_mark: [Implement Quick Sort](https://algs4.cs.princeton.edu/23quicksort/)
 1. :heavy_check_mark: [Implement Insertion Sort](https://algs4.cs.princeton.edu/21elementary/Insertion.java.html)
 1. :heavy_check_mark: [Implement Bubble Sort](https://en.wikipedia.org/wiki/Bubble_sort)
-1. [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)
-1. [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/)
-1. [692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/description/)
-1. [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/description/)
-1. [146. LRU Cache](https://leetcode.com/problems/lru-cache/description/)
-
+1. :heavy_check_mark: [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)
+1. :heavy_check_mark: [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/)
+1. :heavy_check_mark: [692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/description/)
+1. :heavy_check_mark: [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/description/)
+1. :heavy_check_mark: [146. LRU Cache](https://leetcode.com/problems/lru-cache/description/)
+1. [211. Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/description/)
+1. [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/)
+1. [438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/)
+1. [173. Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/description/)
+1. [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)
 
 
 
