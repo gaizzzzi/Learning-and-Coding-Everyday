@@ -82,11 +82,16 @@ Thanks^^
 1. :heavy_check_mark: [692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/description/)
 1. :heavy_check_mark: [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/description/)
 1. :heavy_check_mark: [146. LRU Cache](https://leetcode.com/problems/lru-cache/description/)
-1. [211. Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/description/)
-1. [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/)
-1. [438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/)
-1. [173. Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/description/)
-1. [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)
+1. :heavy_check_mark: [211. Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/description/)
+1. :heavy_check_mark: [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/)
+1. :heavy_check_mark: [438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/)
+1. :heavy_check_mark: [173. Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/description/)
+1. :heavy_check_mark: [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)
+1. [809. Expressive Words](https://leetcode.com/problems/expressive-words/description/)
+1. [659. Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/description/)
+1. [223. Rectangle Area](https://leetcode.com/problems/rectangle-area/description/)
+1. [850. Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/description/)
+1. [835. Image Overlap](https://leetcode.com/problems/image-overlap/description/)
 
 
 
