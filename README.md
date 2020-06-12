@@ -96,6 +96,7 @@ Thanks^^
 1. [987. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/description/)
 1. [721. Accounts Merge](https://leetcode.com/problems/accounts-merge/description/)
 1. [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/)
+1. [736. Parse Lisp Expression](https://leetcode.com/problems/parse-lisp-expression/description/)
 
 
 
