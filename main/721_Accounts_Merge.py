@@ -16,15 +16,10 @@ class union_find:
         if self.rank[x] < self.rank[y]:
             self.parent[x] = y
             self.rank[y] += 1
-        elif self.rank[x] < self.rank[y]:
-            self.parent[y] = x
-            self.rank[x] += 1
-        elif x < y:
-            self.parent[y] = x
-            self.rank[x] += 1
         else:
-            self.parent[x] = y
-            self.rank[y] += 1
+            self.parent[y] = x
+            self.rank[x] += 1
+        
         
 class Solution:
     def accountsMerge(self, accounts: List[List[str]]) -> List[List[str]]:
@@ -39,12 +34,11 @@ class Solution:
                 emails_map[email] = i
         
         accounts_map = {}
-        sorted_email = sorted(emails_map.items())
-        for email, i in sorted(sorted_email):
+        for email, i in emails_map.items():
             parent_i = uf.find(i)
             accounts_map[parent_i] = accounts_map.get(parent_i, []) + [email]
             
-        return [[accounts[i][0]] + emails for i, emails in accounts_map.items()]
+        return [[accounts[i][0]] + sorted(emails) for i, emails in accounts_map.items()]
             
             
             
