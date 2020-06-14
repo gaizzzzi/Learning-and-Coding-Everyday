@@ -92,11 +92,14 @@ Thanks^^
 1. :heavy_check_mark: [223. Rectangle Area](https://leetcode.com/problems/rectangle-area/description/)
 1. :heavy_check_mark: [850. Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/description/)
 1. :heavy_check_mark: [835. Image Overlap](https://leetcode.com/problems/image-overlap/description/)
-1. [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/)
-1. [987. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/description/)
-1. [721. Accounts Merge](https://leetcode.com/problems/accounts-merge/description/)
-1. [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/)
-1. [736. Parse Lisp Expression](https://leetcode.com/problems/parse-lisp-expression/description/)
+1. :heavy_check_mark: [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/)
+1. :heavy_check_mark: [987. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/description/)
+1. :heavy_check_mark: [721. Accounts Merge](https://leetcode.com/problems/accounts-merge/description/)
+1. :heavy_check_mark: [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/)
+1. :heavy_check_mark: [736. Parse Lisp Expression](https://leetcode.com/problems/parse-lisp-expression/description/)
+1. [168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/description/)
+1. [415. Add Strings](https://leetcode.com/problems/add-strings/description/)
+1. [716 Max Stack (/problems/max-stack)](https://leetcode.com/problems/max-stack)
 
 
 
