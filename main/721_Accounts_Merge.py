@@ -20,7 +20,6 @@ class union_find:
             self.parent[y] = x
             self.rank[x] += 1
         
-        
 class Solution:
     def accountsMerge(self, accounts: List[List[str]]) -> List[List[str]]:
         # union find
@@ -39,6 +38,7 @@ class Solution:
             accounts_map[parent_i] = accounts_map.get(parent_i, []) + [email]
             
         return [[accounts[i][0]] + sorted(emails) for i, emails in accounts_map.items()]
+
             
             
             
