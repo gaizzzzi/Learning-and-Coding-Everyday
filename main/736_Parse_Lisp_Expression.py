@@ -20,9 +20,8 @@ class Solution:
             
             if expr[pos] == "let":
                 # deep copy of num_map
-                tmp_map = {}
-                for k, v in num_map.items():
-                    tmp_map[k] = v
+                tmp_map = copy.deepcopy(num_map)
+
                     
                 # deal with paras in let
                 i += 1
