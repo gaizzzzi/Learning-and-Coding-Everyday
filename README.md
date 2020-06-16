@@ -100,11 +100,19 @@ Thanks^^
 1. :heavy_check_mark: [168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/description/)
 1. :heavy_check_mark: [415. Add Strings](https://leetcode.com/problems/add-strings/description/)
 1. :heavy_check_mark: [716 Max Stack (/problems/max-stack)](https://leetcode.com/problems/max-stack)
-1. [157. Read N Characters Given Read4](https://leetcode.com/problems/read-n-characters-given-read4)
-1. [158. Read N Characters Given Read4 II - Call multiple times](https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times)
-1. [457. Circular Array Loop](https://leetcode.com/problems/circular-array-loop/description/)
-1. [346. Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream)
-
+1. :heavy_check_mark: [157. Read N Characters Given Read4](https://leetcode.com/problems/read-n-characters-given-read4)
+1. :heavy_check_mark: [158. Read N Characters Given Read4 II - Call multiple times](https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times)
+1. :heavy_check_mark: [457. Circular Array Loop](https://leetcode.com/problems/circular-array-loop/description/)
+1. :heavy_check_mark: [346. Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream)
+1. :heavy_check_mark: [1032. Stream of Characters](https://leetcode.com/problems/stream-of-characters/description/)
+1. :heavy_check_mark: [133. Clone Graph](https://leetcode.com/problems/clone-graph/description/)
+1. :heavy_check_mark: [946. Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/description/)
+1. :heavy_check_mark: [1110. Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/description/)
+1. [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)
+1. [636. Exclusive Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions/description/)
+1. [75. Sort Colors](https://leetcode.com/problems/sort-colors/description/)
+1. [752. Open the Lock](https://leetcode.com/problems/open-the-lock/description/)
+1. [803. Bricks Falling When Hit](https://leetcode.com/problems/bricks-falling-when-hit/description/)
 
 
 ## Leetcode Summary

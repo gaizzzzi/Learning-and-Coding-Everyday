@@ -15,8 +15,10 @@ class Solution:
             if step - idx_map[pos] == 1 or not pos in coll:
                 return False
             start = idx_map[pos]
+            
             for i in range(start, step):
                 if (nums[pos] > 0) ^ (nums[step_map[i]] > 0):
+
                     return False
             return True
         
