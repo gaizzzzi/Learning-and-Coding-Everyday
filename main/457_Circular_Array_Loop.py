@@ -15,10 +15,21 @@ class Solution:
             if step - idx_map[pos] == 1 or not pos in coll:
                 return False
             start = idx_map[pos]
+<<<<<<< HEAD
+<<<<<<< HEAD
+            for i in range(start, step):
+                if (nums[pos] > 0) ^ (nums[step_map[i]] > 0):
+=======
+            sign_flag = nums[pos] > 0
+            for i in range(start, step):
+                if (sign_flag > 0) ^ (nums[step_map[i]] > 0):
+>>>>>>> master
+=======
             
             for i in range(start, step):
                 if (nums[pos] > 0) ^ (nums[step_map[i]] > 0):
 
+>>>>>>> origin/solving_problem
                     return False
             return True
         
