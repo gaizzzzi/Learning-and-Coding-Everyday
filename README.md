@@ -108,11 +108,15 @@ Thanks^^
 1. :heavy_check_mark: [133. Clone Graph](https://leetcode.com/problems/clone-graph/description/)
 1. :heavy_check_mark: [946. Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/description/)
 1. :heavy_check_mark: [1110. Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/description/)
-1. [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)
-1. [636. Exclusive Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions/description/)
-1. [75. Sort Colors](https://leetcode.com/problems/sort-colors/description/)
-1. [752. Open the Lock](https://leetcode.com/problems/open-the-lock/description/)
-1. [803. Bricks Falling When Hit](https://leetcode.com/problems/bricks-falling-when-hit/description/)
+1. :heavy_check_mark: [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)
+1. :heavy_check_mark: [636. Exclusive Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions/description/)
+1. :heavy_check_mark: [75. Sort Colors](https://leetcode.com/problems/sort-colors/description/)
+1. :heavy_check_mark: [752. Open the Lock](https://leetcode.com/problems/open-the-lock/description/)
+1. :heavy_check_mark: [803. Bricks Falling When Hit](https://leetcode.com/problems/bricks-falling-when-hit/description/)
+1. [394. Decode String](https://leetcode.com/problems/decode-string/description/)
+1. [1376. Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/description/)
+1. [399. Evaluate Division](https://leetcode.com/problems/evaluate-division/description/)
+1. [1146. Snapshot Array](https://leetcode.com/problems/snapshot-array/description/)
 
 
 ## Leetcode Summary
