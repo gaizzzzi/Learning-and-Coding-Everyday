@@ -113,10 +113,16 @@ Thanks^^
 1. :heavy_check_mark: [75. Sort Colors](https://leetcode.com/problems/sort-colors/description/)
 1. :heavy_check_mark: [752. Open the Lock](https://leetcode.com/problems/open-the-lock/description/)
 1. :heavy_check_mark: [803. Bricks Falling When Hit](https://leetcode.com/problems/bricks-falling-when-hit/description/)
-1. [394. Decode String](https://leetcode.com/problems/decode-string/description/)
-1. [1376. Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/description/)
-1. [399. Evaluate Division](https://leetcode.com/problems/evaluate-division/description/)
-1. [1146. Snapshot Array](https://leetcode.com/problems/snapshot-array/description/)
+1. :heavy_check_mark: [394. Decode String](https://leetcode.com/problems/decode-string/description/)
+1. :heavy_check_mark: [1376. Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/description/)
+1. :heavy_check_mark: [399. Evaluate Division](https://leetcode.com/problems/evaluate-division/description/)
+1. :heavy_check_mark: [1146. Snapshot Array](https://leetcode.com/problems/snapshot-array/description/)
+1. [277.	Find the Celebrity](https://leetcode.com/problems/find-the-celebrity)
+1. [268. Missing Number](https://leetcode.com/problems/missing-number/description/)
+1. [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/)
+1. [136. Single Number](https://leetcode.com/problems/single-number/description/)
+1. [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/)
+1. [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/)
 
 
 ## Leetcode Summary
