@@ -123,7 +123,9 @@ Thanks^^
 1. :heavy_check_mark: [136. Single Number](https://leetcode.com/problems/single-number/description/)
 1. :heavy_check_mark: [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/)
 1. :heavy_check_mark: [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/)
-
+1. [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/)
+1. [214. Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/description/)
+1. [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/)
 
 ## Leetcode Summary
 Question Type | Questions
