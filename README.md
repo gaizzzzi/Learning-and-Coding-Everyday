@@ -117,12 +117,12 @@ Thanks^^
 1. :heavy_check_mark: [1376. Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/description/)
 1. :heavy_check_mark: [399. Evaluate Division](https://leetcode.com/problems/evaluate-division/description/)
 1. :heavy_check_mark: [1146. Snapshot Array](https://leetcode.com/problems/snapshot-array/description/)
-1. [277.	Find the Celebrity](https://leetcode.com/problems/find-the-celebrity)
-1. [268. Missing Number](https://leetcode.com/problems/missing-number/description/)
-1. [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/)
-1. [136. Single Number](https://leetcode.com/problems/single-number/description/)
-1. [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/)
-1. [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/)
+1. :heavy_check_mark: [277.	Find the Celebrity](https://leetcode.com/problems/find-the-celebrity)
+1. :heavy_check_mark: [268. Missing Number](https://leetcode.com/problems/missing-number/description/)
+1. :heavy_check_mark: [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/)
+1. :heavy_check_mark: [136. Single Number](https://leetcode.com/problems/single-number/description/)
+1. :heavy_check_mark: [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/)
+1. :heavy_check_mark: [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/)
 
 
 ## Leetcode Summary
