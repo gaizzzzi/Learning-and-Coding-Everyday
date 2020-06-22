@@ -126,9 +126,13 @@ Thanks^^
 1. :heavy_check_mark: [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/)
 1. :heavy_check_mark: [214. Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/description/)
 1. :heavy_check_mark: [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/)
-1. [684. Redundant Connection](https://leetcode.com/problems/redundant-connection/description/)
-1. [1319. Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/description/)
+1. :heavy_check_mark: [684. Redundant Connection](https://leetcode.com/problems/redundant-connection/description/)
+1. :heavy_check_mark: [1319. Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/description/)
 1. :heavy_check_mark: [787. Cheapest Flights Within K Stops (MST?)](https://leetcode.com/problems/cheapest-flights-within-k-stops/)
+1. :heavy_check_mark: [1486. XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/description/)
+1. :heavy_check_mark: [1487. Making File Names Unique](https://leetcode.com/problems/making-file-names-unique/description/)
+1. :heavy_check_mark: [1488. Avoid Flood in The City](https://leetcode.com/problems/avoid-flood-in-the-city/description/)
+1. :heavy_check_mark: [1489. Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/description/)
 
 ## Leetcode Summary
 Question Type | Questions
