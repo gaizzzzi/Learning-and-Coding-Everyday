@@ -93,6 +93,62 @@ class Solution:
                     if find_parent(j + i * len(board[0]) + 1) > 0:
                         
                         board[i][j] = "X"
+
+# 20:41 - 20:50
+class unionfind:
+    def __init__(self, m, n):
+        self.prt = [i for i in range(n * m + 1)]
+        self.rk = [0 for _ in range(n * m + 1)]
+    
+    def find(self, x):
+        while self.prt[x] != x:
+            self.prt[x] = self.prt[self.prt[x]]
+            x = self.prt[x]
+        return x
+    
+    def union(self, _x, _y):
+        x, y = self.find(_x), self.find(_y)
+        if x == y:
+            return
+        if self.rk[x] < self.rk[y]:
+            self.prt[x] = y
+            self.rk[y] += 1
+        else:
+            self.prt[y] = x
+            self.rk[x] += 1
+    
+    def is_edge(self, x):
+        
+        return self.find(x) == self.find(len(self.prt) - 1)
+
+class Solution:
+    def solve(self, board: List[List[str]]) -> None:
+        """
+        Do not return anything, modify board in-place instead.
+        """
+        if not board:
+            return []
+        m, n = len(board), len(board[0])
+        uf = unionfind(m, n)
+        
+        # build union find
+        for r, row in enumerate(board):
+            for c, letter in enumerate(row):
+                if letter == "O":
+                    if r and board[r - 1][c] == "O":
+                        uf.union(r * n + c, (r - 1) * n + c)
+                    if c and board[r][c - 1] == "O":
+                        uf.union(r * n + c, r * n + c - 1)
+                    if not r or not c or r == m - 1 or c == n - 1:
+                        uf.union(r * n + c, m * n)
+                        
+        # flip
+        for r, row in enumerate(board):
+            for c, letter in enumerate(row):
+                if letter == "O" and not uf.is_edge(r * n + c):
+                    board[r][c] = "X"
+                    
+                        
       
 
 

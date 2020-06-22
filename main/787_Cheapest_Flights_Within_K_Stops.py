@@ -59,7 +59,7 @@ class Solution:
             
         return min(prices[dst]) if min(prices[dst]) < float('inf') else -1
 
-    def findCheapestPrice_dijkstra_AC_60ms(self, n: int, flights: List[List[int]], src: int, dst: int, K: int) -> int:
+    def findCheapestPrice_dijkstra_AC_60ms_errored_in_new_case(self, n: int, flights: List[List[int]], src: int, dst: int, K: int) -> int:
         # elimated distance list
         visited = [False] * n
         flights_map = {}
@@ -111,7 +111,29 @@ class Solution:
             dp = new_dp
             
         return dp[dst]   
- 
+
+    # 19:50 - 20:03
+    def findCheapestPrice_dijkstra_prim(self, n: int, flights: List[List[int]], src: int, dst: int, K: int) -> int:
+        edges = {}
+        for u, v, w in flights:
+            edges[u] = edges.get(u, []) + [(v, w)]
+        hp = [(0, -1, src)] #(weight, stops, src)
+        while hp:
+            cur_w, cur_stop, u = heappop(hp)
+            if cur_stop > K:
+                continue
+                
+            if u == dst:
+                return cur_w
+
+            if not u in edges:
+                continue
+            for v, w in edges[u]:
+                heappush(hp, (cur_w + w, cur_stop + 1, v))
+            #print(hp)
+                
+        return -1
+                
 
 
 
