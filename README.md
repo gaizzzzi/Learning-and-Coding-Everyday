@@ -140,6 +140,10 @@ Thanks^^
 1. :heavy_check_mark: [957. Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/description/)
 1. :heavy_check_mark: [763. Partition Labels](https://leetcode.com/problems/partition-labels/description/)
 1. :heavy_check_mark: [1192. Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/description/)
+1. [971. Flip Binary Tree To Match Preorder Traversal](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/description/)
+1. [743. Network Delay Time](https://leetcode.com/problems/network-delay-time/description/)
+1. [1391. Check if There is a Valid Path in a Grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/description/)
+1. [980. Unique Paths III](https://leetcode.com/problems/unique-paths-iii/description/)
 
 ## Leetcode Summary
 Question Type | Questions
