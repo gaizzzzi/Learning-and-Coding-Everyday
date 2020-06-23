@@ -136,10 +136,10 @@ Thanks^^
 1. :heavy_check_mark: [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/)
 1. :heavy_check_mark: [518. Coin Change 2](https://leetcode.com/problems/coin-change-2/description/)
 1. :heavy_check_mark: [28. Implement strStr()](https://leetcode.com/problems/implement-strstr/description/)
-1. [472. Concatenated Words](https://leetcode.com/problems/concatenated-words/description/)
-1. [957. Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/description/)
-1. [763. Partition Labels](https://leetcode.com/problems/partition-labels/description/)
-1. [1192. Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/description/)
+1. :heavy_check_mark: [472. Concatenated Words](https://leetcode.com/problems/concatenated-words/description/)
+1. :heavy_check_mark: [957. Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/description/)
+1. :heavy_check_mark: [763. Partition Labels](https://leetcode.com/problems/partition-labels/description/)
+1. :heavy_check_mark: [1192. Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/description/)
 
 ## Leetcode Summary
 Question Type | Questions
