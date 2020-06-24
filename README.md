@@ -140,10 +140,14 @@ Thanks^^
 1. :heavy_check_mark: [957. Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/description/)
 1. :heavy_check_mark: [763. Partition Labels](https://leetcode.com/problems/partition-labels/description/)
 1. :heavy_check_mark: [1192. Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/description/)
-1. [971. Flip Binary Tree To Match Preorder Traversal](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/description/)
-1. [743. Network Delay Time](https://leetcode.com/problems/network-delay-time/description/)
-1. [1391. Check if There is a Valid Path in a Grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/description/)
-1. [980. Unique Paths III](https://leetcode.com/problems/unique-paths-iii/description/)
+1. :heavy_check_mark: [971. Flip Binary Tree To Match Preorder Traversal](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/description/)
+1. :heavy_check_mark: [743. Network Delay Time](https://leetcode.com/problems/network-delay-time/description/)
+1. :heavy_check_mark: [1391. Check if There is a Valid Path in a Grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/description/)
+1. :heavy_check_mark: [980. Unique Paths III](https://leetcode.com/problems/unique-paths-iii/description/)
+1. [1094. Car Pooling](https://leetcode.com/problems/car-pooling/description/)
+1. [1325. Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value/description/)
+1. [1038. Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/description/)
+1. [881. Boats to Save People](https://leetcode.com/problems/boats-to-save-people/description/)
 
 ## Leetcode Summary
 Question Type | Questions
