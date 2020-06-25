@@ -144,10 +144,10 @@ Thanks^^
 1. :heavy_check_mark: [743. Network Delay Time](https://leetcode.com/problems/network-delay-time/description/)
 1. :heavy_check_mark: [1391. Check if There is a Valid Path in a Grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/description/)
 1. :heavy_check_mark: [980. Unique Paths III](https://leetcode.com/problems/unique-paths-iii/description/)
-1. [1094. Car Pooling](https://leetcode.com/problems/car-pooling/description/)
-1. [1325. Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value/description/)
-1. [1038. Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/description/)
-1. [881. Boats to Save People](https://leetcode.com/problems/boats-to-save-people/description/)
+1. :heavy_check_mark: [1094. Car Pooling](https://leetcode.com/problems/car-pooling/description/)
+1. :heavy_check_mark: [1325. Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value/description/)
+1. :heavy_check_mark: [1038. Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/description/)
+1. :heavy_check_mark: [881. Boats to Save People](https://leetcode.com/problems/boats-to-save-people/description/)
 
 ## Leetcode Summary
 Question Type | Questions
