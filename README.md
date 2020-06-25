@@ -148,6 +148,11 @@ Thanks^^
 1. :heavy_check_mark: [1325. Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value/description/)
 1. :heavy_check_mark: [1038. Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/description/)
 1. :heavy_check_mark: [881. Boats to Save People](https://leetcode.com/problems/boats-to-save-people/description/)
+1. [593. Valid Square](https://leetcode.com/problems/valid-square/description/)
+1. [753. Cracking the Safe](https://leetcode.com/problems/cracking-the-safe/description/)
+1. [1345. Jump Game IV](https://leetcode.com/problems/jump-game-iv/description/)
+1. [659. Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/description/)
+1. [1296. Divide Array in Sets of K Consecutive Numbers](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/description/)
 
 ## Leetcode Summary
 Question Type | Questions
