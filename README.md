@@ -156,7 +156,6 @@ Thanks^^
 1. :heavy_check_mark: [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
 1. :heavy_check_mark: [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/)
 1. :heavy_check_mark: [123. Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/)
-1. :heavy_check_mark: [1204. Last Person to Fit in the Elevator](https://leetcode.com/problems/last-person-to-fit-in-the-elevator)
 1. :heavy_check_mark: [1105. Filling Bookcase Shelves](https://leetcode.com/problems/filling-bookcase-shelves/description/)
 1. :heavy_check_mark: [149. Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/description/)
 1. [1095. Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/description/)
