@@ -161,11 +161,16 @@ Thanks^^
 1. :heavy_check_mark: [1095. Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/description/)
 1. :heavy_check_mark: [1300. Sum of Mutated Array Closest to Target](https://leetcode.com/problems/sum-of-mutated-array-closest-to-target/description/)
 1. :heavy_check_mark: [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)
-1. [1229. Meeting Scheduler](https://leetcode.com/problems/meeting-scheduler)
-1. [1272. Remove Interval](https://leetcode.com/problems/remove-interval)
-1. [134. Gas Station](https://leetcode.com/problems/gas-station/description/)
-1. [455. Assign Cookies](https://leetcode.com/problems/assign-cookies/description/)
-1. [588. Design In-Memory File System](https://leetcode.com/problems/design-in-memory-file-system)
+1. :heavy_check_mark: [1229. Meeting Scheduler](https://leetcode.com/problems/meeting-scheduler)
+1. :heavy_check_mark: [1272. Remove Interval](https://leetcode.com/problems/remove-interval)
+1. :heavy_check_mark: [134. Gas Station](https://leetcode.com/problems/gas-station/description/)
+1. :heavy_check_mark: [455. Assign Cookies](https://leetcode.com/problems/assign-cookies/description/)
+1. :heavy_check_mark: [588. Design In-Memory File System](https://leetcode.com/problems/design-in-memory-file-system)
+1. [1189. Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/description/)
+1. [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/description/)
+1. [192. Word Frequency](https://leetcode.com/problems/word-frequency/description/)
+1. [1074. Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/description/)
+
 
 ## Leetcode Summary
 Question Type | Questions
