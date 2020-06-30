@@ -166,10 +166,10 @@ Thanks^^
 1. :heavy_check_mark: [134. Gas Station](https://leetcode.com/problems/gas-station/description/)
 1. :heavy_check_mark: [455. Assign Cookies](https://leetcode.com/problems/assign-cookies/description/)
 1. :heavy_check_mark: [588. Design In-Memory File System](https://leetcode.com/problems/design-in-memory-file-system)
-1. [1189. Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/description/)
-1. [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/description/)
-1. [192. Word Frequency](https://leetcode.com/problems/word-frequency/description/)
-1. [1074. Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/description/)
+1. :heavy_check_mark: [1189. Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/description/)
+1. :heavy_check_mark: [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/description/)
+1. :heavy_check_mark: [192. Word Frequency](https://leetcode.com/problems/word-frequency/description/)
+1. :heavy_check_mark: [1074. Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/description/)
 
 
 ## Leetcode Summary
