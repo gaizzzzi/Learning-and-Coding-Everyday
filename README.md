@@ -170,6 +170,12 @@ Thanks^^
 1. :heavy_check_mark: [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/description/)
 1. :heavy_check_mark: [192. Word Frequency](https://leetcode.com/problems/word-frequency/description/)
 1. :heavy_check_mark: [1074. Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/description/)
+1. [1277. Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/)
+1. [221. Maximal Square](https://leetcode.com/problems/maximal-square/)
+1. [299. Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)
+1. [68. Text Justification](https://leetcode.com/problems/text-justification/)
+1. [139. Word Break](https://leetcode.com/problems/word-break/)
+1. [733. Flood Fill](https://leetcode.com/problems/flood-fill/)
 
 
 ## Leetcode Summary
