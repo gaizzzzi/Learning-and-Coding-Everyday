@@ -176,6 +176,12 @@ Thanks^^
 1. :heavy_check_mark: [68. Text Justification](https://leetcode.com/problems/text-justification/)
 1. :heavy_check_mark: [139. Word Break](https://leetcode.com/problems/word-break/)
 1. :heavy_check_mark: [733. Flood Fill](https://leetcode.com/problems/flood-fill/)
+1. [403. Frog Jump](https://leetcode.com/problems/frog-jump/description/)
+1. [432. All O`one Data Structure](https://leetcode.com/problems/all-oone-data-structure/)
+1. [529. Minesweeper](https://leetcode.com/problems/minesweeper/)
+1. [143. Reorder List](https://leetcode.com/problems/reorder-list/)
+1. [202. Happy Number](https://leetcode.com/problems/happy-number/)
+1. [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)
 
 
 ## Leetcode Summary
