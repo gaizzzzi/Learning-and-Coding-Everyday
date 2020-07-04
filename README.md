@@ -188,11 +188,13 @@ Thanks^^
 1. :heavy_check_mark: [937. Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/description/)
 1. :heavy_check_mark: [828. Count Unique Characters of All Substrings of a Given String](https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string/description/)
 1. :heavy_check_mark: [450. Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/description/)
-1. [445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/description/)
-1. [1239. Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/description/)
-1. [1156. Swap For Longest Repeated Character Substring](https://leetcode.com/problems/swap-for-longest-repeated-character-substring/description/)
-1. [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/)
-
+1. :heavy_check_mark: [445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/description/)
+1. :heavy_check_mark: [1239. Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/description/)
+1. :heavy_check_mark: [1156. Swap For Longest Repeated Character Substring](https://leetcode.com/problems/swap-for-longest-repeated-character-substring/description/)
+1. :heavy_check_mark: [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/)
+1. [909. Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/description/)
+1. [694. Number of Distinct Islands](https://leetcode.com/problems/number-of-distinct-islands/description/)
+1. [126. Word Ladder II](https://leetcode.com/problems/word-ladder-ii/description/)
 
 ## Leetcode Summary
 Question Type | Questions
