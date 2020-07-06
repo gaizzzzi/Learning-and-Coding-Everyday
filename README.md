@@ -197,6 +197,12 @@ Thanks^^
 1. :heavy_check_mark: [126. Word Ladder II](https://leetcode.com/problems/word-ladder-ii/description/)
 1. :heavy_check_mark: [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/)
 1. :heavy_check_mark: [394. Decode String](https://leetcode.com/problems/decode-string/description/)
+1. [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/)
+1. [285. Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/description/)
+1. [314. Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/description/)
+1. [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/)
+1. [451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/description/)
+1. [471. Encode String with Shortest Length](https://leetcode.com/problems/encode-string-with-shortest-length/description/)
 
 
 ## Leetcode Summary
