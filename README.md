@@ -192,9 +192,12 @@ Thanks^^
 1. :heavy_check_mark: [1239. Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/description/)
 1. :heavy_check_mark: [1156. Swap For Longest Repeated Character Substring](https://leetcode.com/problems/swap-for-longest-repeated-character-substring/description/)
 1. :heavy_check_mark: [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/)
-1. [909. Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/description/)
-1. [694. Number of Distinct Islands](https://leetcode.com/problems/number-of-distinct-islands/description/)
-1. [126. Word Ladder II](https://leetcode.com/problems/word-ladder-ii/description/)
+1. :heavy_check_mark: [909. Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/description/)
+1. :heavy_check_mark: [694. Number of Distinct Islands](https://leetcode.com/problems/number-of-distinct-islands/description/)
+1. :heavy_check_mark: [126. Word Ladder II](https://leetcode.com/problems/word-ladder-ii/description/)
+1. :heavy_check_mark: [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/)
+1. :heavy_check_mark: [394. Decode String](https://leetcode.com/problems/decode-string/description/)
+
 
 ## Leetcode Summary
 Question Type | Questions
