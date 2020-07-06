@@ -15,12 +15,12 @@ class Solution:
         decoded_s, pos = helper(0)
         return decoded_s
 
-pos = 0:
-    tmp_s = "accaccacc", 8
-    pos = 8:
-        tmp_s = "accaccacc" 
-    pos = 7:
-        tmp_s = "a" + "cc"
-        pos = 5:
-            tmp_s = "c"
-        pos = 6:
+# pos = 0:
+#     tmp_s = "accaccacc", 8
+#     pos = 8:
+#         tmp_s = "accaccacc" 
+#     pos = 7:
+#         tmp_s = "a" + "cc"
+#         pos = 5:
+#             tmp_s = "c"
+#         pos = 6:
