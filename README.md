@@ -209,12 +209,12 @@ Thanks^^
 1. :heavy_check_mark: [621. Task Scheduler](https://leetcode.com/problems/task-scheduler/description/)
 1. :heavy_check_mark: [986. Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/description/)
 1. :heavy_check_mark: [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/description/)
-1. [435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/description/)
-1. [452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/)
-1. [358. Rearrange String k Distance Apart](https://leetcode.com/problems/rearrange-string-k-distance-apart/description/)
-1. [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/)
-1. [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/)
-1. [140. Word Break II](https://leetcode.com/problems/word-break-ii/description/)
+1. :heavy_check_mark: [435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/description/)
+1. :heavy_check_mark: [452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/)
+1. :heavy_check_mark: [358. Rearrange String k Distance Apart](https://leetcode.com/problems/rearrange-string-k-distance-apart/description/)
+1. :heavy_check_mark: [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/)
+1. :heavy_check_mark: [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/)
+1. :heavy_check_mark: [140. Word Break II](https://leetcode.com/problems/word-break-ii/description/)
 
 ## Leetcode Summary
 Question Type | Questions
