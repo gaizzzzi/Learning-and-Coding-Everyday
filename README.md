@@ -215,6 +215,10 @@ Thanks^^
 1. :heavy_check_mark: [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/)
 1. :heavy_check_mark: [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/)
 1. :heavy_check_mark: [140. Word Break II](https://leetcode.com/problems/word-break-ii/description/)
+1. [951. Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/description/)
+1. [846. Hand of Straights](https://leetcode.com/problems/hand-of-straights/description/)
+1. [753. Cracking the Safe](https://leetcode.com/problems/cracking-the-safe/description/)
+1. [1026. Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/description/)
 
 ## Leetcode Summary
 Question Type | Questions
