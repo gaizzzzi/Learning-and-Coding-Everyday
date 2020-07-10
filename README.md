@@ -219,6 +219,8 @@ Thanks^^
 1. [846. Hand of Straights](https://leetcode.com/problems/hand-of-straights/description/)
 1. [753. Cracking the Safe](https://leetcode.com/problems/cracking-the-safe/description/)
 1. [1026. Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/description/)
+1. [785. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/description/)
+1. [845. Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/description/)
 
 ## Leetcode Summary
 Question Type | Questions
