@@ -223,7 +223,7 @@ Thanks^^
 1. [845. Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/description/)
 1. [901. Online Stock Span](https://leetcode.com/problems/online-stock-span/description/)
 1. [741. Cherry Pickup](https://leetcode.com/problems/cherry-pickup/description/)
-# 1. [877. Stone Game](https://leetcode.com/problems/stone-game/description/)
+(1. [877. Stone Game](https://leetcode.com/problems/stone-game/description/))
 
 
 ## Leetcode Summary
