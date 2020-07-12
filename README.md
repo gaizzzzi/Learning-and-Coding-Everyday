@@ -219,11 +219,11 @@ Thanks^^
 1. :heavy_check_mark: [846. Hand of Straights](https://leetcode.com/problems/hand-of-straights/description/)
 1. :heavy_check_mark: [753. Cracking the Safe](https://leetcode.com/problems/cracking-the-safe/description/)
 1. :heavy_check_mark: [1026. Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/description/)
-1. [785. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/description/)
-1. [845. Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/description/)
-1. [901. Online Stock Span](https://leetcode.com/problems/online-stock-span/description/)
-1. [741. Cherry Pickup](https://leetcode.com/problems/cherry-pickup/description/)
-(1. [877. Stone Game](https://leetcode.com/problems/stone-game/description/))
+1. :heavy_check_mark: [785. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/description/)
+1. :heavy_check_mark: [845. Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/description/)
+1. :heavy_check_mark: [901. Online Stock Span](https://leetcode.com/problems/online-stock-span/description/)
+1. :heavy_check_mark: [741. Cherry Pickup](https://leetcode.com/problems/cherry-pickup/description/)
+1. Resume update
 
 
 ## Leetcode Summary
