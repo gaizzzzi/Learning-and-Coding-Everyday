@@ -234,6 +234,6 @@ Dynamic Programming | To be added
 Binary Search |  To be added
 
 ## Milestones
-1. :star: :star: :star: 100
-1. :star: :star: :star: 200
+1. :star: 100
+1. :star: :star: 200
 1. :star: :star: :star: Resume update
