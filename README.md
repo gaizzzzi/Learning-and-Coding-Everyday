@@ -222,8 +222,7 @@ Thanks^^
 1. :heavy_check_mark: [785. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/description/)
 1. :heavy_check_mark: [845. Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/description/)
 1. :heavy_check_mark: [901. Online Stock Span](https://leetcode.com/problems/online-stock-span/description/)
-1. :heavy_check_mark: [741. Cherry Pickup](https://leetcode.com/problems/cherry-pickup/description/)
-1. Resume update
+1. :star: :star: :star: Resume update
 
 
 ## Leetcode Summary
