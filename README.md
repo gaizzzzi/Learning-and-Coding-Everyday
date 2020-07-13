@@ -222,8 +222,10 @@ Thanks^^
 1. :heavy_check_mark: [785. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/description/)
 1. :heavy_check_mark: [845. Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/description/)
 1. :heavy_check_mark: [901. Online Stock Span](https://leetcode.com/problems/online-stock-span/description/)
-1. :star: :star: :star: Resume update
-
+1. [523. Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/description/)
+1. [398. Random Pick Index](https://leetcode.com/problems/random-pick-index/description/)
+1. [270. Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/description/)
+1. [282. Expression Add Operators](https://leetcode.com/problems/expression-add-operators/description/)
 
 ## Leetcode Summary
 Question Type | Questions
@@ -232,3 +234,6 @@ Dynamic Programming | To be added
 Binary Search |  To be added
 
 ## Milestones
+1. :star: :star: :star: 100
+1. :star: :star: :star: 200
+1. :star: :star: :star: Resume update
