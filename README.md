@@ -4,6 +4,15 @@ Hi everyone,
 Welcome to channel learning and coding everyday. Will keep update daily. Please keep an eye on it! 
 
 Thanks^^
+## Milestones
+1. :star: 100
+1. :star: :star: 200
+1. :star: :star: :star: Resume update
+1. 1st Application
+1. 1st Phone Interview
+1. 1st Onsite
+1. 1st Offer
+1. 1st Day
 
 ## Leetcode Questions
 1. :heavy_check_mark: [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)
@@ -237,8 +246,3 @@ Question Type | Questions
 ------------ | -------------
 Dynamic Programming | To be added
 Binary Search |  To be added
-
-## Milestones
-1. :star: 100
-1. :star: :star: 200
-1. :star: :star: :star: Resume update
