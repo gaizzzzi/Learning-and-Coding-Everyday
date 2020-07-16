@@ -235,10 +235,15 @@ Thanks^^
 1. :heavy_check_mark: [398. Random Pick Index](https://leetcode.com/problems/random-pick-index/description/)
 1. :heavy_check_mark: [270. Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/description/)
 1. :heavy_check_mark: [282. Expression Add Operators](https://leetcode.com/problems/expression-add-operators/description/)
-1. [562. Longest Line of Consecutive One in Matrix](https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix/description/)
-1. [1031. Maximum Sum of Two Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/description/)
-1. [723. Candy Crush](https://leetcode.com/problems/candy-crush/description/)
-1. [1423. Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/description/)
+1. :heavy_check_mark: [562. Longest Line of Consecutive One in Matrix](https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix/description/)
+1. :heavy_check_mark: [1031. Maximum Sum of Two Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/description/)
+1. :heavy_check_mark: [723. Candy Crush](https://leetcode.com/problems/candy-crush/description/)
+1. :heavy_check_mark: [1423. Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/description/)
+1. [863. All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/description/)
+1. [819. Most Common Word](https://leetcode.com/problems/most-common-word/description/)
+1. [1102. Path With Maximum Minimum Value](https://leetcode.com/problems/path-with-maximum-minimum-value/description/)
+1. [1099. Two Sum Less Than K](https://leetcode.com/problems/two-sum-less-than-k/description/)
+1. [662. Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/description/)
 
 
 ## Leetcode Summary
