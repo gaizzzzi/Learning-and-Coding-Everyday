@@ -244,10 +244,10 @@ Thanks^^
 1. :heavy_check_mark: [1102. Path With Maximum Minimum Value](https://leetcode.com/problems/path-with-maximum-minimum-value/description/)
 1. :heavy_check_mark: [1099. Two Sum Less Than K](https://leetcode.com/problems/two-sum-less-than-k/description/)
 1. :heavy_check_mark: [662. Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/description/)
-1. [1197. Minimum Knight Moves](https://leetcode.com/problems/minimum-knight-moves/description/) 2 :rose:
+1. [1197. Minimum Knight Moves](https://leetcode.com/problems/minimum-knight-moves/description/) :rose::rose:
 1. [71. Simplify Path](https://leetcode.com/problems/simplify-path/description/)
 1. [1048. Longest String Chain](https://leetcode.com/problems/longest-string-chain/description/)
-1. [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/) 3 :rose:
+1. [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/) :rose::rose::rose:
 
 
 ## Leetcode Summary
