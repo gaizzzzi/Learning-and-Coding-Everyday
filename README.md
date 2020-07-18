@@ -14,6 +14,9 @@ Thanks^^
 1. 1st Offer
 1. 1st Day
 
+## Behavior Questions
+1. STAR Principle
+
 ## Leetcode Questions
 1. :heavy_check_mark: [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)
 1. :heavy_check_mark: [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/)
