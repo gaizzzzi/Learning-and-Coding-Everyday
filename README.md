@@ -18,6 +18,11 @@ Thanks^^
 1. STAR Principle
 1. Rethink the resume/experience according to the Behavior questions
 
+## OOD Questions
+1. Parking lot
+1. Poker game
+1. Chess game
+
 ## Leetcode Questions
 1. :heavy_check_mark: [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)
 1. :heavy_check_mark: [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/)
