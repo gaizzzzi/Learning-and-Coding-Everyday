@@ -16,6 +16,7 @@ Thanks^^
 
 ## Behavior Questions
 1. STAR Principle
+1. Rethink the resume/experience according to the Behavior questions
 
 ## Leetcode Questions
 1. :heavy_check_mark: [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)
