@@ -19,8 +19,8 @@ Thanks^^
 1. Rethink the resume/experience according to the Behavior questions
 
 ## OOD Questions
+1. Design a deck of cards
 1. Parking lot
-1. Poker game
 1. Chess game
 
 ## Leetcode Questions
@@ -257,6 +257,7 @@ Thanks^^
 1. :heavy_check_mark: [71. Simplify Path](https://leetcode.com/problems/simplify-path/description/)
 1. :heavy_check_mark: [1048. Longest String Chain](https://leetcode.com/problems/longest-string-chain/description/)
 1. :heavy_check_mark: [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/)
+1. [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/)
 
 
 ## Leetcode Summary
