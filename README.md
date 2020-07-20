@@ -259,7 +259,8 @@ Thanks^^
 1. :heavy_check_mark: [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/)
 1. :heavy_check_mark: [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/)
 1. :heavy_check_mark: [1060. Missing Element in Sorted Array](https://leetcode.com/problems/missing-element-in-sorted-array/description/)
-
+1. [340. Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/description/)
+1. [498. Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/description/)
 
 
 ## Leetcode Summary
