@@ -257,7 +257,8 @@ Thanks^^
 1. :heavy_check_mark: [71. Simplify Path](https://leetcode.com/problems/simplify-path/description/)
 1. :heavy_check_mark: [1048. Longest String Chain](https://leetcode.com/problems/longest-string-chain/description/)
 1. :heavy_check_mark: [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/)
-1. [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/)
+1. :heavy_check_mark: [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/)
+1. [1060. Missing Element in Sorted Array](https://leetcode.com/problems/missing-element-in-sorted-array/description/)
 
 
 ## Leetcode Summary
