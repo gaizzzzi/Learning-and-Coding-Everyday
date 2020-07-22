@@ -261,8 +261,8 @@ Thanks^^
 1. :heavy_check_mark: [1060. Missing Element in Sorted Array](https://leetcode.com/problems/missing-element-in-sorted-array/description/)
 1. :heavy_check_mark: [340. Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/description/)
 1. :heavy_check_mark: [498. Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/description/)
-1. [311. Sparse Matrix Multiplication](https://leetcode.com/problems/sparse-matrix-multiplication/description/)
-1. [249. Group Shifted Strings](https://leetcode.com/problems/group-shifted-strings/description/)
+1. :heavy_check_mark: [311. Sparse Matrix Multiplication](https://leetcode.com/problems/sparse-matrix-multiplication/description/)
+1. :heavy_check_mark: [249. Group Shifted Strings](https://leetcode.com/problems/group-shifted-strings/description/)
 
 
 ## Leetcode Summary
