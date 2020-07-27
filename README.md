@@ -266,9 +266,9 @@ Thanks^^
 1. :heavy_check_mark: [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/)
 1. :heavy_check_mark: [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/)
 1. :heavy_check_mark: [1428. Leftmost Column with at Least a One](https://leetcode.com/problems/leftmost-column-with-at-least-a-one/)
-1. [155. Min Stack](https://leetcode.com/problems/min-stack/)
-1. [1029. Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/)
-1. [582. Kill Process](https://leetcode.com/problems/kill-process/)
+1. :heavy_check_mark: [155. Min Stack](https://leetcode.com/problems/min-stack/)
+1. :heavy_check_mark: [1029. Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/)
+1. :heavy_check_mark: [582. Kill Process](https://leetcode.com/problems/kill-process/)
 
 ## Leetcode Summary
 Question Type | Questions
