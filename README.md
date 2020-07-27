@@ -269,6 +269,9 @@ Thanks^^
 1. :heavy_check_mark: [155. Min Stack](https://leetcode.com/problems/min-stack/)
 1. :heavy_check_mark: [1029. Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/)
 1. :heavy_check_mark: [582. Kill Process](https://leetcode.com/problems/kill-process/)
+1. [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)
+1. [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)
+1. [165. Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/solution/)
 
 ## Leetcode Summary
 Question Type | Questions
