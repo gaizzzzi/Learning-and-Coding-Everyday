@@ -272,7 +272,9 @@ Thanks^^
 1. [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)
 1. [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)
 1. [165. Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/solution/)
-
+1. [1086. High Five](https://leetcode.com/problems/high-five/)
+1. [1274. Number of Ships in a Rectangle](https://leetcode.com/problems/number-of-ships-in-a-rectangle/)
+1. [1472. Design Browser History](https://leetcode.com/problems/design-browser-history/)
 ## Leetcode Summary
 Question Type | Questions
 ------------ | -------------
