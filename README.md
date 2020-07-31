@@ -275,6 +275,9 @@ Thanks^^
 1. [1086. High Five](https://leetcode.com/problems/high-five/)
 1. [1274. Number of Ships in a Rectangle](https://leetcode.com/problems/number-of-ships-in-a-rectangle/)
 1. [1472. Design Browser History](https://leetcode.com/problems/design-browser-history/)
+1. [1396. Design Underground System](https://leetcode.com/problems/design-underground-system/)
+1. [1209. Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)
+1. [430. Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)
 ## Leetcode Summary
 Question Type | Questions
 ------------ | -------------
