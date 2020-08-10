@@ -280,6 +280,10 @@ Thanks^^
 1. :heavy_check_mark: [430. Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)
 1. [273. Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)
 1. [1152. Analyze User Website Visit Pattern](https://leetcode.com/problems/analyze-user-website-visit-pattern/)
+1. [179. Largest Number](https://leetcode.com/problems/largest-number/)
+1. [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/)
+1. [172. Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)
+1. [339. Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/)
 ## Leetcode Summary
 Question Type | Questions
 ------------ | -------------
