@@ -284,6 +284,11 @@ Thanks^^
 1. [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/)
 1. [172. Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)
 1. [339. Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/)
+1. [939. Minimum Area Rectangle](https://leetcode.com/problems/minimum-area-rectangle/description/)
+1. [443. String Compression](https://leetcode.com/problems/string-compression/description/)
+1. [657. Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/description/)
+1. [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)
+
 ## Leetcode Summary
 Question Type | Questions
 ------------ | -------------
