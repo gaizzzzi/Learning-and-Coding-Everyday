@@ -288,6 +288,11 @@ Thanks^^
 1. [443. String Compression](https://leetcode.com/problems/string-compression/description/)
 1. [657. Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/description/)
 1. [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)
+1. [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/)
+1. [688. Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/description/)
+1. [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)
+1. [592. Fraction Addition and Subtraction](https://leetcode.com/problems/fraction-addition-and-subtraction/description/)
+
 
 ## Leetcode Summary
 Question Type | Questions
