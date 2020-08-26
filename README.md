@@ -292,6 +292,7 @@ Thanks^^
 1. [688. Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/description/)
 1. [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)
 1. [592. Fraction Addition and Subtraction](https://leetcode.com/problems/fraction-addition-and-subtraction/description/)
+1. [833. Find And Replace in String](https://leetcode.com/problems/find-and-replace-in-string/)
 
 
 ## Leetcode Summary
