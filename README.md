@@ -9,7 +9,7 @@ Thanks^^
 1. :star: :star: 200
 1. :star: :star: :star: Resume update
 1. :star: :star: :star: :star: 1st Application
-1. 1st Phone Interview
+1. :star: :star: :star: :star: :star: 1st Phone Interview
 1. 1st Onsite
 1. 1st Offer
 1. 1st Day
