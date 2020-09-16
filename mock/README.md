@@ -16,3 +16,7 @@
 1. [127. Word Ladder](https://leetcode.com/problems/word-ladder/description/)
 1. [987. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/description/)
 
+2020.09.15 Tuesday
+1. [341. Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/description/)
+1. [210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/description/)
+
