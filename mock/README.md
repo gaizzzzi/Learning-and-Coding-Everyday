@@ -20,3 +20,7 @@
 1. [341. Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/description/)
 1. [210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/description/)
 
+2020.09.16 Thursday 
+1. [117. Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/description/)
+1. [1209. Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)
+
