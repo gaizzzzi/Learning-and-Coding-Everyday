@@ -11,7 +11,7 @@ Thanks^^
 1. :star: :star: :star: :star: 1st Application
 1. :star: :star: :star: :star: :star: 1st Phone Interview
 1. :star: :star: :star: :star: :star: :star: 1st Onsite
-1. 1st Offer
+1. :heart: :heart: :heart: :heart: :heart: :heart: :heart: 1st Offer
 1. 1st Day
 
 ## Behavior Questions
